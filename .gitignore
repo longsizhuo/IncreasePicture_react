@@ -1,0 +1,4 @@
+image-adjuster-backend/node_modules
+image-resizer/node_modules
+node_modules
+.idea
